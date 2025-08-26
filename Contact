@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Contact — Zoe Hosford</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>Contact</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="research.html">Research</a>
+      <a href="methods.html">Methods</a>
+      <a href="contact.html" class="active">Contact</a>
+    </nav>
+  </header>
+
+  <main class="narrow">
+    <p>Email: <a href="mailto:zoe@example.com">zoe@example.com</a></p>
+    <p>GitHub: <a href="https://github.com/your-username">github.com/your-username</a></p>
+    <p>LinkedIn or X/Twitter: <a href="https://example.com">@your-handle</a></p>
+  </main>
+
+  <footer>
+    <p>© 2025 Zoe Hosford</p>
+  </footer>
+</body>
+</html>
