@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About — Zoe Hosford</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>About</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html" class="active">About</a>
+      <a href="research.html">Research</a>
+      <a href="methods.html">Methods</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main class="narrow">
+    <p>
+      I am a marine ecologist working at the intersection of statistical modeling,
+      long-term datasets, and ecological theory to understand how marine species respond
+      to environmental change over time. My work connects field observations with predictive
+      models to inform conservation and the management of coastal and pelagic ecosystems.
+      I use species-distribution and environmental data to model and forecast population dynamics.
+    </p>
+
+    <p>
+      I am currently a Master’s student in the Biology Department at Western Washington University,
+      advised by Dr. Alejandro Acevedo-Gutiérrez and Dr. Dietmar Schwarz in the Marine Mammal
+      Ecology Lab. I study how increased presence of transient killer whales may influence harbor
+      seal distribution and Pacific salmon consumption. I’m also pursuing a Graduate Certificate in
+      Data Science to deepen my quantitative skills in R and Shiny.
+    </p>
+
+    <p>
+      I earned my Bachelor of Science in Marine Science (Marine Biology concentration) from the
+      University of Maine in 2023. I investigated North Pacific humpback whale habitat shifts and
+      population dynamics over ~20 years, informed by a semester at the University of Alaska
+      Anchorage — Kachemak Bay Campus, where I completed the Semester by the Bay program and an
+      Occupational Endorsement Certificate in Marine Mammal Science. In Alaska, I worked closely with
+      Dr. Debbie Boege-Tobin and Marc Webber, learning the ins and outs of marine research.
+    </p>
+
+    <p>
+      I’ve carried out fieldwork in Maine, Alaska, Florida, and Washington, including behavioral
+      observations, acoustic monitoring and analysis, purse seining, marine-mammal rescues, and necropsies.
+      Outside of research I love time with my dog, Gully, plus hiking, swimming, being in nature, and a good book.
+    </p>
+  </main>
+
+  <footer>
+    <p>© 2025 Zoe Hosford</p>
+  </footer>
+</body>
+</html>
