@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Methods — Zoe Hosford</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>Methods & Tools</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="research.html">Research</a>
+      <a href="methods.html" class="active">Methods</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main class="narrow">
+    <p>I rely on quantitative approaches and reproducible workflows:</p>
+    <ul>
+      <li><strong>Statistical modeling:</strong> ARIMA, GLS, GAMs, mixed-effects models</li>
+      <li><strong>Community analysis:</strong> NMDS, PERMANOVA, Bray–Curtis & Euclidean metrics</li>
+      <li><strong>Forecasting:</strong> Holt-Winters, decomposition, time-series prediction</li>
+      <li><strong>Software:</strong> R, tidyverse, ggplot2, Shiny, GIS tools</li>
+      <li><strong>Data viz:</strong> ecological heatmaps, spatial mapping, interactive dashboards</li>
+      <li><strong>Reproducibility:</strong> version control (Git/GitHub), literate programming (R Markdown/Quarto)</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>© 2025 Zoe Hosford</p>
+  </footer>
+</body>
+</html>
