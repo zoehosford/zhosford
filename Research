@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Research — Zoe Hosford</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>Research</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="research.html" class="active">Research</a>
+      <a href="methods.html">Methods</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main class="narrow">
+    <p>
+      My research sits at the intersection of ecology, climate, and data science. I use time-series,
+      spatial models, and ecological networks to investigate:
+    </p>
+    <ul>
+      <li>Quantifying non-consumptive effects (NCEs) of marine predators</li>
+      <li>Predator–prey dynamics among harbor seals, Pacific salmon, and killer whales</li>
+      <li>Forecasting distribution and consumption patterns under changing ocean conditions</li>
+    </ul>
+
+    <!-- Optional future sections:
+    <h2>Current Projects</h2>
+    <ul>
+      <li>Transient killer whale influence on harbor seal distribution</li>
+      <li>Salmon consumption modeling in the Salish Sea</li>
+    </ul>
+
+    <h2>Publications</h2>
+    <p>Coming soon.</p>
+    -->
+  </main>
+
+  <footer>
+    <p>© 2025 Zoe Hosford</p>
+  </footer>
+</body>
+</html>
