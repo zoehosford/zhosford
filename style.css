@@ -69,3 +69,41 @@ a:hover{text-decoration:underline}
   background: #0a9396;      /* lighter teal on hover */
   transform: translateY(-2px); /* subtle lift effect */
 }
+
+.center-btn {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #005f73;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.btn:hover {
+  background: #0a9396;
+  transform: translateY(-2px);
+}
+
+/* Image gallery styling */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  margin: 2rem auto;
+  max-width: 900px;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,.12);
+}
+
